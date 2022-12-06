@@ -2,7 +2,7 @@
 
 
 ## First Time Setup
-1. Setup your IBM Cloud account with the Academic Initiative ([documentation](../request-promocode))
+
 2. Log in to https://cloud.ibm.com/
 3. Create a free Watson Studio service instance hosted in Frankfurt via https://cloud.ibm.com/catalog/services/watson-studio
 ![](./screenshots/1.png)
